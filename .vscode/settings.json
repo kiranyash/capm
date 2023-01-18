@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "anuvsqlite",
+            "database": "${workspaceFolder:12capm}/anuv.db"
+        }
+    ]
+}
